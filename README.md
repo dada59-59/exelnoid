@@ -23,7 +23,8 @@ Niveaux de difficulté
 
 
 Fichier ROM utilisable dans l'émulateur DCexel et sur EXL100 / EXELTEL 
-Consulter le manuel pour plus d'informations sur le jeu
+
+Consultez le manuel pour plus d'informations sur le jeu
 
 C'est une version BETA quelques bogues et instabilités sont possibles.
 
