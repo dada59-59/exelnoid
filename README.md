@@ -8,7 +8,7 @@ Version BETA 0.99-17
 
 EXELNOID -------------------------------------------------
 
-Histoire
+
 De retour dans les années .equ $1980, le courageux TMS7xx0, épaulé par ses
 comparses Dada59, Claude et Codex et d'autres irréductibles, luttent avec
 acharnement pour la libération des systèmes obscures.
