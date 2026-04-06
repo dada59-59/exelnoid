@@ -31,7 +31,7 @@ C'est une version BETA quelques bogues et instabilités sont possibles.
 Crédits :
 Merci aux valeureux partisans des systèmes obscures :
 Jester pour le dev kit et les outils : http://dcexel.free.fr/outils/index.html
-Les superbes sites http://dcexel.free.fr/ et https://www.ti99.com/exelvision/website/
+Les superbes sites http://dcexel.free.fr/ avec l'emulateur Exl100/ Exeltel et https://www.ti99.com/exelvision/website/
 les membres actifs du forum : https://forum.system-cfg.com/
 Brett Hallen pour les pcb de cartouche : https://github.com/BrettHallen/Exelvision/tree/main
 
