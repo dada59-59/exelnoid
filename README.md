@@ -21,6 +21,9 @@ brique tombe, la ligue des vilains MAINSTREAM est déconfite, la bataille est
 relancée — et le valeureux TMS7xx0 est prêt à repartir pour de nouvelles aventures.
 Niveaux de difficulté
 
+démo : 
+https://www.youtube.com/watch?v=c_FOsd-g2Co
+
 
 Fichier ROM utilisable dans l'émulateur DCexel et sur EXL100 / EXELTEL 
 
