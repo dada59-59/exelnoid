@@ -4,7 +4,12 @@ Version BETA 0.99-17
 01/04/2026    DADA59
 
 
+12/04/26 -------------------------------------------------
 
+Ajout du fichier exelnoid_v099-17-exelmouse.rom
+
+=> version compatible avec l'Exelmouse, testé OK sur Exeltel avec Exelmouse sur interface multifonction
+Fonctionnement à vérifier sur EXL100 avec Exelmouse sur interface CRAM
 
 EXELNOID -------------------------------------------------
 
