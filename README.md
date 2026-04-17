@@ -49,7 +49,7 @@ fichier exelnoid_v17lite.cram => image cram pouvant être chargé dans l'émulat
 exelnoidcramlite.k7 => sauvegarde de cette cram via l'interface exelmémoire dans un fichier k7 Dcexel, nom du backup cram = NOID
 
 exelnoidcramlite.wav => fichier wav issu de la conversion du fichier .k7
-=> ce fichier peut être chargé dans un EXL100 / EXLETEL par l'interface exelmémoire via l'option BKP, 1 TAPE vers CRAM, nom de CRAM = NOID
+=> ce fichier peut être chargé dans un EXL100 / EXELTEL par l'interface exelmémoire via l'option BKP, 1 TAPE vers CRAM, nom de CRAM = NOID
 
 un fois chargé dans une exelmémoire le jeu se lance ensuite par l'exelbasic / exelbasic par 
 CALL EXEC (32772)
