@@ -54,6 +54,8 @@ exelnoidcramlite.wav => fichier wav issu de la conversion du fichier .k7
 un fois chargé dans une exelmémoire le jeu se lance ensuite par l'exelbasic / exelbasic par 
 CALL EXEC (32772)
 
+Les fichiers avec le suffixe mouse sont la version compatible avec exelmouse, testé OK sur interface multifonction sur exeltel, se lance de la même façon que la version classique
+
 
 (le script make_cram.py permet de transformer un fichier obj issu de la compilation TASM en fichier CRAM pour utilisation dans DCexel (le fichier assembleur doit aoir un .org > 8000, 8004 ici) )
 
