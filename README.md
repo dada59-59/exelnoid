@@ -44,6 +44,7 @@ Fonctionnement à vérifier sur EXL100 avec Exelmouse sur interface CRAM
 -Ajout des sources assembleur des ROM exelnoid_v099-17.rom et exelnoid_v099-17-exelmouse.rom
 
 -Ajout d'une version minimale dans le répertoire mini, cela permet de lancer le jeu en version allégée en utilsant l'exelmémoire si l'on ne dispose pas du matériel pour créer une rom.
+=> cette version minimale n'a pas l'écran d'introduction, le bonus tir et le chargement de niveaux personnalisés
 
 fichier exelnoid_v17lite.cram => image cram pouvant être chargé dans l'émulateur DCexel
 exelnoidcramlite.k7 => sauvegarde de cette cram via l'interface exelmémoire dans un fichier k7 Dcexel, nom du backup cram = NOID
@@ -54,7 +55,7 @@ exelnoidcramlite.wav => fichier wav issu de la conversion du fichier .k7
 un fois chargé dans une exelmémoire le jeu se lance ensuite par l'exelbasic / exelbasic par 
 CALL EXEC (32772)
 
-Les fichiers avec le suffixe mouse sont la version compatible avec exelmouse, testé OK sur interface multifonction sur exeltel, se lance de la même façon que la version classique
+Les fichiers avec le suffixe mouse sont la version compatible avec exelmouse, testé OK sur interface multifonction sur exeltel, se lance de la même façon que la version classique avec nom de CRAM = NOIDM
 
 
 (le script make_cram.py permet de transformer un fichier obj issu de la compilation TASM en fichier CRAM pour utilisation dans DCexel (le fichier assembleur doit aoir un .org > 8000, 8004 ici) )
