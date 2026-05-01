@@ -60,6 +60,16 @@ Les fichiers avec le suffixe mouse sont la version compatible avec exelmouse, te
 
 (le script make_cram.py permet de transformer un fichier obj issu de la compilation TASM en fichier CRAM pour utilisation dans DCexel (le fichier assembleur doit aoir un .org > 8000, 8004 ici) )
 
+
+1/05/26 -------------------------------------------------
+
+Ajout du fichier image disquette noid.fd
+
+basé sur une version optimisée par Claude, sans support exelmouse
+
+lancement du jeu sous DOS par EXEC NOID
+
+
 ------------------------------------------------------------------------------------
 Crédits :
 Merci aux valeureux partisans des systèmes obscures :
